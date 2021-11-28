@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Brings back the really old touch pad arrows as used in MCPE Lite.",
+    "name": "Old Arrows",
+    "uuid": "74e35f3d-86a0-4255-aa36-37c321472804",
+    "version": [ 0, 0, 1 ]
+  },
+  "modules": [
+    {
+      "description": "Brings back the really old touch pad arrows as used in MCPE Lite.",
+      "type": "resources",
+      "uuid": "bde3139b-2417-428c-b26e-8741928d8998",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
